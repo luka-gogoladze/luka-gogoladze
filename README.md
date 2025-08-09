@@ -25,19 +25,22 @@ Here are the technologies I work with:
 ---
 
 ### **My Projects**
-
 <table>
 <tr>
 <td width="50%">
 <h3 align="center">MyBible - Mobile App</h3>
 <div align="center">
-<a href="[LINK_TO_YOUR_MYBIBLE_REPO]" target="_blank"><img src="[LINK_TO_YOUR_MOCKUP_IMAGE]" alt="MyBible Project Mockup"></a>
-<p>
-<a href="[LINK_TO_YOUR_MYBIBLE_REPO]" target="_blank">
-<img src="https://img.shields.io/badge/CHECK_IT_OUT-20232A?style=for-the-badge">
-</a>
-</p>
+<!-- The image is NOT a link. It just displays the mockup from your PUBLIC assets repo -->
+<img src="https://raw.githubusercontent.com/luka-gogoladze/my-portfolio-assets/main/mockup-1.jpg" alt="MyBible Project Mockup" width="100%">
+  <img src="https://raw.githubusercontent.com/luka-gogoladze/my-portfolio-assets/main/mockup-2.jpg" alt="MyBible Project Mockup" width="100%">
+  <img src="https://raw.githubusercontent.com/luka-gogoladze/my-portfolio-assets/main/mockup-3.jpg" alt="MyBible Project Mockup" width="100%">
+  <img src="https://raw.githubusercontent.com/luka-gogoladze/my-portfolio-assets/main/mockup-4.jpg" alt="MyBible Project Mockup" width="100%">
+  <img src="https://raw.githubusercontent.com/luka-gogoladze/my-portfolio-assets/main/mockup-5.jpg" alt="MyBible Project Mockup" width="100%">
 <p>A feature-rich mobile app for personal Bible study, built with React Native and Firebase. Features include user authentication, highlighting, and a prayer-streak tracker to encourage daily engagement.</p>
+<br>
+<!-- This badge clearly states the status. It is not a link. -->
+<img src="https://img.shields.io/badge/Repository-Private-red?style=for-the-badge&logo=github">
+<p><em>The source code is held in a private repository. Access can be provided upon request.</em></p>
 </div>
 </td>
 <td width="50%">
@@ -49,9 +52,11 @@ Here are the technologies I work with:
 </tr>
 </table>
 
+<div align="center">
+
 ---
 <div align="center">
 
-![Luka's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+![Luka's GitHub Stats](https://github-readme-stats.vercel.app/api?username=luka-gogoladze&show_icons=true&theme=radical)
 
 </div>
