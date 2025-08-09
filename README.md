@@ -31,11 +31,11 @@ Here are the technologies I work with:
 <h3 align="center">MyBible - Mobile App</h3>
 <div align="center">
 <!-- The image is NOT a link. It just displays the mockup from your PUBLIC assets repo -->
-<img src="https://raw.githubusercontent.com/luka-gogoladze/my-portfolio-assets/refs/heads/main/bible-mockup-1.jpg" alt="MyBible Project Mockup" width="100%">
-<img src="https://raw.githubusercontent.com/luka-gogoladze/my-portfolio-assets/refs/heads/main/bible-mockup-2.jpg" alt="MyBible Project Mockup" width="100%">
-<img src="https://raw.githubusercontent.com/luka-gogoladze/my-portfolio-assets/refs/heads/main/bible-mockup-3.jpg" alt="MyBible Project Mockup" width="100%">
-<img src="https://raw.githubusercontent.com/luka-gogoladze/my-portfolio-assets/refs/heads/main/bible-mockup-4.jpg" alt="MyBible Project Mockup" width="100%">
-<img src="https://raw.githubusercontent.com/luka-gogoladze/my-portfolio-assets/refs/heads/main/bible-mockup-5.jpg" alt="MyBible Project Mockup" width="100%">
+<img src="https://raw.githubusercontent.com/luka-gogoladze/my-portfolio-assets/refs/heads/main/bible-mockup-1.jpg" alt="MyBible Project Mockup" width="250px">
+<img src="https://raw.githubusercontent.com/luka-gogoladze/my-portfolio-assets/refs/heads/main/bible-mockup-2.jpg" alt="MyBible Project Mockup" width="250px">
+<img src="https://raw.githubusercontent.com/luka-gogoladze/my-portfolio-assets/refs/heads/main/bible-mockup-3.jpg" alt="MyBible Project Mockup" width="250px">
+<img src="https://raw.githubusercontent.com/luka-gogoladze/my-portfolio-assets/refs/heads/main/bible-mockup-4.jpg" alt="MyBible Project Mockup" width="250px">
+<img src="https://raw.githubusercontent.com/luka-gogoladze/my-portfolio-assets/refs/heads/main/bible-mockup-5.jpg" alt="MyBible Project Mockup" width="250px">
 <p>A feature-rich mobile app for personal Bible study, built with React Native and Firebase. Features include user authentication, highlighting, and a prayer-streak tracker to encourage daily engagement.</p>
 <br>
 <!-- This badge clearly states the status. It is not a link. -->
