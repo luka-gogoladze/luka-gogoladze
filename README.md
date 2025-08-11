@@ -22,16 +22,6 @@ Here are the technologies I work with:
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
-
-<!-- This badge clearly states the status. It is not a link. -->
-<img src="https://img.shields.io/badge/Repository-Private-red?style=for-the-badge&logo=github">
-<p><em>The source code is held in a private repository. Access can be provided upon request.</em></p>
-</div>
-</td>
-<td width="50%">
-<h3 align="center">Future Project #2</h3>
-<div align="center">
-<p><em>Coming soon! I am planning my next project to showcase my skills in advanced API integration.</em></p>
 </div>
 </td>
 </tr>
