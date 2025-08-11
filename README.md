@@ -22,29 +22,7 @@ Here are the technologies I work with:
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
----
 
-### **My Projects**
-<table>
-<tr>
-<td width="50%">
-<h3 align="center">MyBible - Mobile App</h3>
-<div align="center">
-<table>
-<tr>
-<td><img src="https://raw.githubusercontent.com/luka-gogoladze/my-portfolio-assets/main/bible-mockup-1.jpg" alt="MyBible Screen 1" width="250"></td>
-<td><img src="https://raw.githubusercontent.com/luka-gogoladze/my-portfolio-assets/main/bible-mockup-2.jpg" alt="MyBible Screen 2" width="250"></td>
-<td><img src="https://raw.githubusercontent.com/luka-gogoladze/my-portfolio-assets/main/bible-mockup-3.jpg" alt="MyBible Screen 3" width="250"></td>
-</tr>
-<tr>
-<td><img src="https://raw.githubusercontent.com/luka-gogoladze/my-portfolio-assets/main/bible-mockup-4.jpg" alt="MyBible Screen 4" width="250"></td>
-<td><img src="https://raw.githubusercontent.com/luka-gogoladze/my-portfolio-assets/main/bible-mockup-5.jpg" alt="MyBible Screen 5" width="250"></td>
-</tr>
-</table>
-</div>
-</details>
-<p>A feature-rich mobile app for personal Bible study, built with React Native and Firebase. Features include user authentication, highlighting, and a prayer-streak tracker to encourage daily engagement.</p>
-<br>
 <!-- This badge clearly states the status. It is not a link. -->
 <img src="https://img.shields.io/badge/Repository-Private-red?style=for-the-badge&logo=github">
 <p><em>The source code is held in a private repository. Access can be provided upon request.</em></p>
