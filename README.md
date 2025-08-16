@@ -4,7 +4,7 @@
 
 I'm a motivated and passionate React Native Developer from Tbilisi, Georgia, focused on building beautiful and functional mobile applications. I thrive on turning complex problems into elegant, user-friendly solutions.
 
-* 🔭 I’m currently working on my flagship project, **MyBible**, a cross-platform mobile study app.
+* 🔭 I’m currently working on my flagship project, **My Bible**, a cross-platform mobile study app.
 * 🌱 I’m constantly learning and deepening my skills in TypeScript and advanced state management with Redux.
 * 💬 Ask me about **React Native, Firebase, or Public Speaking**! My background in debate helps me communicate complex technical ideas clearly.
 * 📫 How to reach me: [**LinkedIn**](https://www.linkedin.com/in/luka-gogoladze-dev/) or luka.gogoladze.dev@gmail.com
