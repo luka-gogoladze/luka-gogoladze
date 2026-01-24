@@ -60,15 +60,15 @@ I don't just develop software; I develop people and ideas.
 ### 📈 GitHub Trophies
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=[YOUR_USERNAME]&theme=tokyonight&no-frame=true" alt="GitHub Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=luka-gogoladze&theme=tokyonight&no-frame=true" alt="GitHub Trophies" />
   </a>
 </p>
 ---
 
 ### 📫 Connect with me:
 <p align="left">
-  <a href="https://linkedin.com/in/your-profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Luka Gogoladze" height="30" width="40" /></a>
-  <a href="mailto:your-email@example.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Email" height="30" width="40" /></a>
+  <a href="[https://www.linkedin.com/in/luka-gogoladze-dev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Luka Gogoladze" height="30" width="40" /></a>
+  <a href="mailto:luka.gogoladze.dev@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Email" height="30" width="40" /></a>
 </p>
 
 ---
