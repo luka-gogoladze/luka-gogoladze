@@ -1,4 +1,4 @@
-# Hi there! I'm Luka! 👋 
+# Hi there, I'm Luka! 👋 
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=luka-gogoladze&show_icons=true&theme=tokyonight" alt="Luka's GitHub Stats" />
@@ -34,7 +34,7 @@ I build high-performance mobile and web applications with a focus on **clean arc
 ### 🌟 Featured Projects
 
 #### [⏳ My Fasting](https://github.com/luka-gogoladze) 
-*A specialized Christian spiritual application built for managing fasting disciplines.*
+*A specialized spiritual application built for managing fasting disciplines.*
 - **Tech:** React Native, TypeScript, Push Notifications.
 - **Key Feature:** High-precision temporal management and state persistence logic.
 
@@ -44,9 +44,9 @@ I build high-performance mobile and web applications with a focus on **clean arc
 - **Key Feature:** Seamless text-rendering engine and advanced bookmarking.
 
 #### [🚖 Taxi App MVP](https://github.com/luka-gogoladze)
-[cite_start]*Full-stack transport solution featuring Google Maps integration.*
-- [cite_start]**Tech:** React Native, Firebase, Google Maps API.
-- [cite_start]**Key Feature:** Live route planning and secure phone authentication via Firestore.
+*Full-stack transport solution featuring Google Maps integration.*
+- **Tech:** React Native, Firebase, Google Maps API.
+- **Key Feature:** Live route planning and secure phone authentication via Firestore.
 
 ---
 
@@ -57,19 +57,26 @@ I don't just develop software; I develop people and ideas.
 
 ---
 
-### 🤝 Let's Collaborate
+### ⚡ Coding Momentum
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=luka-gogoladze&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+---
+
+### 🤝 Let's Connect
 
 <p align="center">
   <a href="https://linkedin.com/in/LukaGogoladze">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;
   <a href="mailto:luka.gogoladze.dev@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;
   <a href="https://github.com/luka-gogoladze">
-    <img src="https://img.shields.io/badge/Portfolio-121013?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
