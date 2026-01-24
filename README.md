@@ -1,37 +1,74 @@
-### Hi there, I'm Luka 👋
+# Hi there, I'm Luka! 👋 
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=luka-gogoladze&show_icons=true&theme=tokyonight" alt="Luka's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luka-gogoladze&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+### 🚀 React & React Native Developer | Logical Architect
+I build high-performance mobile and web applications with a focus on **clean architecture** and **user-centric design**. With a background in **competitive debate and mentorship**, I view coding as the ultimate form of structured logic—translating complex requirements into efficient, scalable software.
 
 ---
 
-I'm a motivated and passionate React Native Developer from Tbilisi, Georgia, focused on building beautiful and functional mobile applications. I thrive on turning complex problems into elegant, user-friendly solutions.
+### 🛠️ Tech Stack & Tools
 
-* 🔭 I’m currently working on my flagship project, **My Bible**, a cross-platform mobile study app.
-* 🌱 I’m constantly learning and deepening my skills in TypeScript and advanced state management with Redux.
-* 💬 Ask me about **React Native, Firebase, or Public Speaking**! My background in debate helps me communicate complex technical ideas clearly.
-* 📫 How to reach me: [**LinkedIn**](https://www.linkedin.com/in/luka-gogoladze-dev/) or luka.gogoladze.dev@gmail.com
+**Languages & Frameworks**
+<p align="left">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
+</p>
+
+**Backend & Integration**
+<p align="left">
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/Google_Maps-4285F4?style=for-the-badge&logo=google-maps&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=postman&logoColor=white" />
+</p>
+
+---
+
+### 🌟 Featured Projects
+
+#### [⏳ My Fasting](https://github.com/luka-gogoladze) 
+*A discipline-tracking application focused on structured fasting periods.*
+- **Tech:** React Native, TypeScript, Push Notifications.
+- **Key Feature:** High-precision temporal management and state persistence logic.
+
+#### [📖 My Bible](https://github.com/luka-gogoladze)
+*A high-performance text-reader optimized for offline study.*
+- **Tech:** React Native, Local Storage, UI/UX Optimization.
+- **Key Feature:** Seamless text-rendering engine and advanced bookmarking.
+
+#### [🚖 Taxi App MVP](https://github.com/luka-gogoladze)
+*Full-stack transport solution with real-time tracking.*
+- **Tech:** React Native, Firebase, Google Maps API.
+- **Key Feature:** Live route planning and secure passenger authentication.
 
 ---
 
-### **My Tech Stack**
-
-Here are the technologies I work with:
-
-![React Native](https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-
-</div>
-</td>
-</tr>
-</table>
-
-<div align="center">
+### 🏆 Beyond the Code
+I don't just develop software; I develop people and ideas.
+* **Debate Champion:** Winner of multiple tournaments, focusing on logic, rhetoric, and speed of thought.
+* **Mentor:** Experienced in coaching students in public speaking, helping them simplify complex concepts—a skill I use daily to bridge the gap between technical and non-technical stakeholders.
 
 ---
-<div align="center">
 
-![Luka's GitHub Stats](https://github-readme-stats.vercel.app/api?username=luka-gogoladze&show_icons=true&theme=radical)
+### 📈 GitHub Trophies
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=luka-gogoladze&theme=tokyonight&no-frame=true" alt="luka-gogoladze" /></a>
+</p>
 
-</div>
+---
+
+### 📫 Connect with me:
+<p align="left">
+  <a href="https://linkedin.com/in/your-profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Luka Gogoladze" height="30" width="40" /></a>
+  <a href="mailto:your-email@example.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Email" height="30" width="40" /></a>
+</p>
+
+---
+*“Logic will get you from A to B. Imagination (and clean code) will take you everywhere.”*
