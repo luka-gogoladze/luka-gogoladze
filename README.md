@@ -65,16 +65,16 @@ I don't just develop software; I develop people and ideas.
 ### 🤝 Let's Connect
 
 <p align="center">
-  <a href="https://linkedin.com/in/LukaGogoladze">
+  <a href="https://www.linkedin.com/in/luka-gogoladze-dev/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   &nbsp;&nbsp;
   <a href="mailto:luka.gogoladze.dev@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/luka-gogoladze">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="tel:+995571082468">
+    <img src="https://img.shields.io/badge/Phone-34B7F1?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
 </p>
 
