@@ -59,9 +59,10 @@ I don't just develop software; I develop people and ideas.
 
 ### 📈 GitHub Trophies
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=luka-gogoladze&theme=tokyonight&no-frame=true" alt="luka-gogoladze" /></a>
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=[YOUR_USERNAME]&theme=tokyonight&no-frame=true" alt="GitHub Trophies" />
+  </a>
 </p>
-
 ---
 
 ### 📫 Connect with me:
