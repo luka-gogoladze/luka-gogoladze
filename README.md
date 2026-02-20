@@ -57,10 +57,6 @@ I don't just develop software; I develop people and ideas.
 
 ---
 
-### 📈 Coding Activity
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=luka-gogoladze&theme=tokyo-night&hide_border=true" width="100%" />
-</p>
 
 ### 🤝 Let's Connect
 
