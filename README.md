@@ -1,15 +1,11 @@
 # <p align="center">Hi there, I'm Luka! 👋</p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=luka-gogoladze&theme=tokyonight&no-frame=true&margin-w=15" alt="Luka's Trophies" />
-</p>
-
-<p align="center">
   <a href="https://github.com/luka-gogoladze">
-    <img src="https://github-readme-stats.vercel.app/api?username=luka-gogoladze&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Luka's GitHub Stats" />
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=luka-gogoladze&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Luka's GitHub Stats" />
   </a>
   <a href="https://github.com/luka-gogoladze">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=luka-gogoladze&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+    <img src="https://streak-stats.demolab.com/?user=luka-gogoladze&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
   </a>
 </p>
 
@@ -28,7 +24,7 @@ I build high-performance mobile and web applications with a focus on **clean arc
 
 ### 🛠️ Tech Stack & Tools
 
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
@@ -50,8 +46,6 @@ I build high-performance mobile and web applications with a focus on **clean arc
 | **[⏳ My Fasting](https://github.com/luka-gogoladze/my-fasting)** | Spiritual application for managing fasting disciplines with high-precision timing. | `TS`, `React Native`, `Push API` |
 | **[📖 My Bible](https://github.com/luka-gogoladze/my-bible)** | High-performance offline text-reader with custom rendering engine. | `React Native`, `Local Storage` |
 | **[🚖 Taxi App MVP](https://github.com/luka-gogoladze/taxi-app-mvp)** | Full-stack solution with real-time tracking and Firebase auth. | `Firebase`, `Maps API`, `RN` |
-
-> *Note: If links don't lead to specific repos, ensure the repository names match your GitHub paths.*
 
 ---
 
@@ -78,11 +72,7 @@ I build high-performance mobile and web applications with a focus on **clean arc
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luka-gogoladze&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=luka-gogoladze&color=blue" alt="Profile Views" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=luka-gogoladze&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 <p align="center">
